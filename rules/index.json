@@ -1,0 +1,22 @@
+{
+    "default": {
+
+    },
+    "slotGen": {
+        "startTime":{
+            "type": "string"
+        },
+        "endTime": {
+            "type": "string"
+        },
+        "slotDuration": {
+            "type": "string"
+        },
+        "count": {
+            "type": "string"
+        },
+        "interval": {
+            "type": "string"
+        }
+    }
+}
